@@ -18,7 +18,7 @@ subtractButton.addEventListener("click", () => {
     }
 });
 
-//Addition
+//Addition+
 addButton.addEventListener("click", () =>{
     newNum += parseInt(input.value);
     answer.textContent = newNum;
